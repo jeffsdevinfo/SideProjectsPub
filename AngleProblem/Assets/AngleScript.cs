@@ -87,6 +87,6 @@ public class AngleScript : MonoBehaviour
         {
             spriteDirectionInst = Direction.front; // front sprite gets set here (headed towards cam)            
         }        
-        Debug.Log($"Angle of {relativeAngle} with a heading in the {spriteDirectionInst.ToString()} direction");
+        Debug.Log($"Angle of {relativeAngle} with a heading in the {spriteDirectionInst.ToString()} sprite visible");
     }
 }
