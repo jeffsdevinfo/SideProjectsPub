@@ -137,7 +137,7 @@ GameObject:
   - component: {fileID: 64534405}
   - component: {fileID: 64534404}
   m_Layer: 0
-  m_Name: Mover
+  m_Name: PlayerOnADifferentComputer
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
